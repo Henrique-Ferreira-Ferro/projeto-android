@@ -46,3 +46,8 @@ picture{
     min-width: 320px;
     max-width:800px;
 }
+
+nav:hover{
+    
+    background-color: red;
+}
